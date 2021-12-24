@@ -1,6 +1,16 @@
 # Recommender-System-Using-Netflix-Reviews-Dataset
 ```html
-<div class="tenor-gif-embed" data-postid="16783818" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/netflix-intro-introduction-logo-gif-16783818">Netflix Intro GIF</a>from <a href="https://tenor.com/search/netflix-gifs">Netflix GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<h2>Example of code</h2>
 
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Your title</h2>
+            <div class="wrap">
+            //Your content
+            </div>
+        </div>
+    </div>
+</pre>
 ```
 
